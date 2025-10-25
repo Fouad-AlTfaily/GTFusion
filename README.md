@@ -1,2 +1,5 @@
-# GTFusion
-GTFusion is a novel intrusion detection framework that integrates Graph Neural Networks (GNNs) and temporal models (LSTM) in a dual-branch fusion architecture. It captures both network topology and temporal attack patterns, supporting centralized and federated learning for scalable and privacy-preserving IoT security.
+🔐 GTFusion: A Graph–Temporal Fusion Framework for IoT Intrusion Detection
+
+This repository contains the implementation of GTFusion, a novel intrusion detection system that integrates Graph Neural Networks (GNNs) and Long Short-Term Memory (LSTM) models through a parallel dual-branch fusion architecture.
+GTFusion captures both structural network topology and temporal attack dynamics, enabling comprehensive detection of complex IoT threats.
+The framework supports centralized and federated learning configurations, ensuring scalability and privacy preservation across distributed environments.
